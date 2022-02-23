@@ -1,4 +1,4 @@
-#Wed Feb 23 07:06:41 CST 2022
+#Wed Feb 23 09:55:10 CST 2022
 base.2=C\:\\Users\\rdiet\\Documents\\CurrencyConverter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\10\\classes.dex
 path.2=10/classes.dex
 base.1=C\:\\Users\\rdiet\\Documents\\CurrencyConverter\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
